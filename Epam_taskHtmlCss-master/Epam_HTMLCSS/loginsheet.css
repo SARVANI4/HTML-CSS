@@ -1,0 +1,166 @@
+.top_margin{
+background-color:#43c6db;
+padding:10px 0px;
+height:40px;
+}
+
+.text1{
+padding:580px;
+face:verdana; 
+color:white;
+margin:-20px 0px;
+text-align: center;
+font-size:30px;
+font-family: "Lucida Console" ;
+}
+
+.cross{
+//padding:600px; 
+color:white; 
+margin:-20px 0px;
+text-align: right; 
+font-size:30px; 
+font-family: "Lucida Console";
+}
+
+.email{
+width: 60%;
+align:center;
+  padding: 12px 20px;
+  margin: 25px 260px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+font-size:20px;
+background-image: url('email_icon.png');
+  background-position: 750px 0px;
+ background-repeat: no-repeat;
+}
+
+
+.password{
+width: 60%;
+align:center;
+  padding: 12px 20px;
+  margin: 10px 260px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+font-size:20px;
+background-image: url('password_icon.png');
+  background-position: 750px 0px;
+ background-repeat: no-repeat;
+}
+
+
+.sign-in-btn{
+width:800px;
+ background-color: #43c6db;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+align:center;
+margin:25px 260px;
+  cursor: pointer;
+}
+
+
+.f_p{
+font-size:16px;
+font-family: "Lucida Console";
+margin-left:270px;
+}
+
+.reg{
+font-size:16px;
+font-family: "Lucida Console";
+margin-left:480px;
+}
+
+.hr1 {
+margin:-15px 0px;
+    width:600px;
+    height: 3px;
+    border: 0;
+    border-top: 3px solid #ccc;
+ padding: 0;
+}
+
+.hr2 {
+margin:10px 710px;
+    width:630px;
+    height: 3px;
+    border: 0;
+    border-top: 3px solid #ccc;
+ padding: 0;
+}
+
+.half_page{
+width:200px;
+}
+
+.or_text{
+margin:30px 640px;
+font-size:20px;
+font-family: "Times New Roman", Times, serif;
+color:#6d7b8d;
+}
+
+.fb_btn{
+width:800px;
+ background-color: #0020c2;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+align:center;
+margin:25px 260px;
+  cursor: pointer;
+background-image: url('facebook_icon.png');
+  background-position: 373px 5px;
+background-repeat: no-repeat;
+}
+
+.g_btn{
+width:auto;
+ background-color: #ff2400;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+align:center;
+margin:25px 260px;
+  cursor: pointer;
+background-image: url('gmail_icon.png');
+  background-position: 375px 5px;
+background-repeat: no-repeat;
+}
+
+.epam_btn{
+width:800px;
+ background-color: #b1fb17;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+align:center;
+margin:55px 260px;
+font-family: "Verdana", Times, serif;
+ font-weight: bold;
+  cursor: pointer;
+}
